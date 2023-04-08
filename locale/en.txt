@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+model_542F4F9F_5FF2_8E65_41BC_A0A1456F3E29.label = sofa
+
+## Skin
+
+### Label
+Label_510925A4_5FF6_925B_417E_9751E96F5762.text = assin
+Label_526346DB_5FF2_9FED_41D1_13604CF28A3B.text = green
+Label_51D9224B_5FF5_76ED_418C_EDB2FAEA5E9B.text = grey
+Label_52142E5C_5FF2_8EEB_41BF_3E326393ADCE.text = red
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 6
